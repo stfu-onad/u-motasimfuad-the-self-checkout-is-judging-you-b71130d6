@@ -1,0 +1,2 @@
+Twelve yoghurts, no bags, and you scanned the same one twice. I know. The camera knows. Your conscience should know by now.
+f7b0507d8469eca65f44a3f1af3d61acc662e35981b78a8a9838c242425d01e7  /output/entry.txt
